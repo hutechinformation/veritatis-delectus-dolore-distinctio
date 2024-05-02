@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@hutechinformation/veritatis-delectus-dolore-distinctio",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,32 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/hutechinformation/veritatis-delectus-dolore-distinctio.git"
   },
   "dependencies": {
+    "@hutechinformation/consequuntur-impedit-eius-praesentium": "^1.0.0",
+    "@hutechinformation/dicta-voluptatem-commodi-quidem": "^1.0.0",
+    "@hutechinformation/doloribus-ratione-facilis-quod": "^1.0.0",
+    "@hutechinformation/iure-reiciendis-expedita-est": "^1.0.0",
+    "@hutechinformation/labore-debitis-perferendis-nostrum": "^1.0.0",
+    "@hutechinformation/libero-voluptates-nobis-in": "^1.0.0",
+    "@hutechinformation/magnam-omnis-modi-reprehenderit": "^1.0.0",
+    "@hutechinformation/nihil-necessitatibus-nisi-ea": "^1.0.0",
+    "@hutechinformation/numquam-minima-eos-reiciendis": "^1.0.0",
+    "@hutechinformation/placeat-hic-officiis-saepe": "^1.0.0",
+    "@hutechinformation/quasi-quae-veniam-adipisci": "^1.0.0",
+    "@hutechinformation/quisquam-mollitia-magnam-aliquid": "^1.0.0",
+    "@hutechinformation/quos-eaque-omnis-fuga": "^1.0.0",
+    "@hutechinformation/repellat-dolore-voluptatibus-placeat": "^1.0.0",
+    "@hutechinformation/repellat-necessitatibus-perspiciatis-ratione": "^1.0.0",
+    "@hutechinformation/repudiandae-dicta-doloribus-quia": "^1.0.0",
+    "@hutechinformation/sapiente-sit-doloremque-impedit": "^1.0.0",
+    "@hutechinformation/sed-exercitationem-repudiandae-praesentium": "^1.0.0",
+    "@hutechinformation/sed-optio-odio-optio": "^1.0.0",
+    "@hutechinformation/sequi-laudantium-omnis-maiores": "^1.0.0",
+    "@hutechinformation/ullam-eum-enim-atque": "^1.0.0",
+    "coding-course-api": "^0.1.2",
+    "saoviet-caculator": "^0.1.2",
+    "saoviet-caculator-module": "^0.1.1"
   }
 }
